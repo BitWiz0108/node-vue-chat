@@ -15,14 +15,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luvuong-le/astro-chat.git"
+        "url": "git+https://github.com/BitWiz0108/astro-chat.git"
     },
     "author": "Lu-Vuong <lu-vuongle@hotmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/luvuong-le/astro-chat/issues"
+        "url": "https://github.com/BitWiz0108/astro-chat/issues"
     },
-    "homepage": "https://github.com/luvuong-le/astro-chat#readme",
+    "homepage": "https://github.com/BitWiz0108/astro-chat#readme",
     "devDependencies": {
         "concurrently": "^4.1.0"
     },

@@ -23,7 +23,7 @@
             <ul class="navbar__nav navbar__nav--right" v-if="!isAuthorized">
                 <li class="nav__item">
                     <a
-                        href="https://github.com/luvuong-le/astro-chat"
+                        href="https://github.com/BitWiz0108/astro-chat"
                         target="_blank"
                         class="nav__link"
                     >
@@ -56,7 +56,7 @@
                 </li>
                 <li class="snav__item">
                     <a
-                        href="https://github.com/luvuong-le/astro-chat"
+                        href="https://github.com/BitWiz0108/astro-chat"
                         target="_blank"
                         class="nav__link"
                     >

@@ -7,7 +7,7 @@
             <div class="footer__right">
                 <span>Created under the MIT License</span>
                 <a
-                    href="https://github.com/luvuong-le/astro-chat"
+                    href="https://github.com/BitWiz0108/astro-chat"
                     target="_blank"
                     class="nav__link"
                 >

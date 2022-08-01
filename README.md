@@ -25,19 +25,8 @@ View the project management cycle here [Astro Chat Project Kanban (Trello)](http
 
 ### Tech Stack
 
-| Technology | Description                                                                           | Link ↘️                 |
-| ---------- | ------------------------------------------------------------------------------------- | ----------------------- |
-| HTML5      | Hyper Text Markup Language                                                            | ----                    |
-| CSS3       | Cascading Style Sheets                                                                | ----                    |
-| JavaScript | High Level, Dynamic, Interpreted Language                                             | ----                    |
-| SASS       | Syntactically Awesome Style Sheets                                                    | https://sass-lang.com/  |
-| Babel      | Javascript Compiler                                                                   | https://babeljs.io/     |
-| Webpack    | Javascript Module Bundler                                                             | https://webpack.js.org/ |
-| NodeJS     | Open Source, Javascript Run Time Environment, Execute Javascript code for server side | https://nodejs.org/en/  |
-| VueJS      | Progressive Javascript Framework                                                      | https://vuejs.org/      |
-| Jest       | Javascript Testing Framework                                                          | https://jestjs.io/      |
-| Express       | Web Framework for Node.js                                                          | https://expressjs.com/  |
-| MongoDB       | NoSQL Database                                                                     | https://www.mongodb.com/  |
+## Technologies Used
+ HTML, CSS, JAVASCRIPT, SASS, BABEL, WEBPACK,NodeJS, VueJS, Jest, Express, MongoDB
 
 ## Features
 

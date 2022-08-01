@@ -1,10 +1,5 @@
-# 🌠 Astro Chat 🌠
+## Node-Vue-Chat
 
-[![Build Status](https://travis-ci.org/BitWiz0108/node-vue-chat.svg?branch=master)](https://travis-ci.org/BitWiz0108/node-vue-chat)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![devDependencies Status](https://david-dm.org/BitWiz0108/astro-chat/dev-status.svg)](https://david-dm.org/BitWiz0108/astro-chat?type=dev)
-[![dependencies Status](https://david-dm.org/BitWiz0108/astro-chat/status.svg)](https://david-dm.org/BitWiz0108/astro-chat)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Real Time Chat Application created with VueJS, Express, Socket IO and MongoDB/Mongoose/Mongo Altas.
 
